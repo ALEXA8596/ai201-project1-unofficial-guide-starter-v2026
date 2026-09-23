@@ -57,7 +57,7 @@ in at least 4 of 5 tries.
 
 ## 4. Something about your chunks
 
-4 of 5 of the test questions are responded to in 4 or less sentences.
+3 of 5 of the test questions are responded to in 4 or less sentences.
 
 <!-- YOU WRITE THIS ONE.
 
@@ -74,6 +74,7 @@ in at least 4 of 5 tries.
 
 
 **Why this target:**
+Answers should be concise. However, there are cases where longer answers are required.
 
 
 
